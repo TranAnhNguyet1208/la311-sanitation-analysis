@@ -1,0 +1,5 @@
+RequestSource,requests,pct_of_requests,median_days_closed,pct_closed_within_3d
+Call,59357,51.9,2.82,53.3
+Mobile App,34591,30.3,2.06,61.6
+Self Service,16819,14.7,2.53,57.4
+Driver Self Report,2677,2.3,0.0,99.6

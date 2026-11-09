@@ -1,0 +1,5 @@
+RequestType,requests,pct_of_scope,median_days_closed,p90_days_closed,pct_closed_within_3d,unresolved_at_snapshot,pct_unresolved
+Bulky Items,674487,71.2,2.06,6.7,61.9,11517,1.7
+Metal/Household Appliances,119096,12.6,2.14,6.7,60.8,949,0.8
+Illegal Dumping Pickup,114263,12.1,2.24,7.1,57.6,6305,5.5
+Electronic Waste,39579,4.2,2.06,6.6,62.4,436,1.1
